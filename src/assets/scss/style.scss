@@ -1,0 +1,13 @@
+/*================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+@font-face {
+  font-family: 'IranYekan';
+  src: url('../font/iranyekanwebregularfanum.woff') format('woff'), /* IE6-IE8 */ url('../font/iranyekanwebregularfanum.ttf') format('ttf');
+}
+body {
+  font-family: 'IranYekan';
+}
